@@ -1,6 +1,6 @@
 const elem = ['Marco', 'Francesco', 'Matteo'];
 
-function helloPeople(name) {
+function hello(name) {
     console.log("Hello "+name+"!");
 }
 
