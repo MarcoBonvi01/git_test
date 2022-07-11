@@ -1,6 +1,11 @@
-function hello(name) {
+const elem = ['Marco', 'Francesco', 'Matteo'];
+
+function helloPeople(name) {
     console.log("Hello "+name+"!");
 }
 
-hello("marco")
+elem.forEach(element => {
+    hello(element)
+});
+
 
