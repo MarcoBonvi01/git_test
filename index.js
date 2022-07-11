@@ -1,7 +1,7 @@
 const elem = ['Marco', 'Francesco', 'Matteo'];
 
 function hello(name) {
-    console.log("Hello "+name+"!");
+    console.log("Hello "+name+"!!!");
 }
 
 elem.forEach(element => {
