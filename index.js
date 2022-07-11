@@ -6,6 +6,6 @@ function hello(name) {
 
 elem.forEach(element => {
     hello(element)
-});
+}); 
 
 
