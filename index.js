@@ -1,6 +1,6 @@
-function hello() {
-    console.log("Hello dio santo!");
+function hello(name) {
+    console.log("Hello "+name+"!");
 }
 
-hello()
+hello("marco")
 
